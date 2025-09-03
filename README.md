@@ -38,7 +38,7 @@ AntiClean is a multi-threaded tool designed to send messages to Discord channels
 2. Select Attack from the menu.
 3. Enter:
 - Guild ID: The Discord server ID.
-- Channel ID: The target channel ID.
+- Channel ID: The target channel ID. (leave it blank for spam in all text channels of guild)
 - Message: The message to send (use \n for new lines).
 - Count per Account: Number of messages per token.
 - Proxy Option: Choose whether to use proxies (y/n).
